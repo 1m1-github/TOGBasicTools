@@ -1,0 +1,14 @@
+name = "TOGBasicTools"
+uuid = "2f8be1b4-0caf-4444-968c-3426b7899264"
+version = "1.0.0"
+authors = ["1m1 <imi@1m1.io>"]
+
+[deps]
+Dates = "ade2ca70-3891-5945-98fb-dc099432e06a"
+HTTP = "cd3eb016-35fb-5094-929b-558a96fad6f3"
+Serialization = "9e88b42a-f829-5b0c-bbe9-9e923198166b"
+Base64 = "2a0f44e3-6c83-55bd-87e4-b1978d98bd5f"
+Gumbo = "708ec375-b3d6-5a57-a7ce-8257bf98657a"
+JSON3 = "0f8b85d8-7281-11e9-16c2-39a750bddbf1"
+Cascadia = "54eefc05-d75b-58de-a785-1a3403f0919f"
+SMTPClient = "c35d69d1-b747-5018-a192-25bc5e63c83d"
