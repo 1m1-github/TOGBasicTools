@@ -1,6 +1,6 @@
 name = "TOGBasicTools"
 uuid = "2f8be1b4-0caf-4444-968c-3426b7899264"
-version = "1.0.0"
+version = "2.0.0"
 authors = ["1m1 <imi@1m1.io>"]
 
 [deps]
